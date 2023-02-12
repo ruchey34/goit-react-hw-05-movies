@@ -1,0 +1,28 @@
+.form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ff7b25;
+    margin-top: 10px;
+    height: 40px;
+  }
+  
+  .input {
+    margin-right: 20px;
+    height: 30px;
+    width: 30%;
+    border: none;
+    border-radius: 10px;
+    padding-left: 10px;
+  }
+  
+  .search_btn {
+    border: none;
+    height: 30px;
+    border-radius: 10px;
+  }
+  
+  .search_btn:hover,
+  .search_btn:focus {
+    background-color: #feb236;
+  }

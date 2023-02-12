@@ -1,0 +1,10 @@
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .cast_item {
+    width: calc(25% - 20px);
+    margin: 5px;
+  }
